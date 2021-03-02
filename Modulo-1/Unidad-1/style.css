@@ -1,0 +1,41 @@
+body{
+  background-color: aquamarine;
+}
+
+.box-size{
+  width: 16em;
+  height: 16em;
+  margin: 1em;
+}
+
+.box-1{
+  background-color: #FF0000;
+}
+
+.box-2{
+  background-color: #FF0033;
+} 
+
+.box-3{
+  background-color: #FF0066;
+}
+
+.box-4{
+  background-color: #FF0099;
+}
+
+.box-5{
+  background-color: #FF00CC;
+}
+
+.box-6{
+  background-color: #FF00FF;
+}
+
+.footer{
+  margin: 1em;
+  width: 98%;
+  height: 4em;
+  background-color:cadetblue;
+  text-align: center;
+}
